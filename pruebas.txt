@@ -1,0 +1,19 @@
+ <div class="container-fluid d-flex justify-content-center">
+        <div class="card " style="width: 18rem;">
+            <div class="card-header d-flex justify-content-end">
+                <h6 class="text-center mx-2">Magic of the Gathering</h6>
+                <span class="">01/05</span>
+            </div>
+
+
+            <img src="./img/demon.jpg" class=" card-img-top img-fluid col-3" alt="card-demon-mtg">
+
+            <div class="card">
+                <div class="card-body">
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                    Aliquam atque, id dolores error placeat iure tempora sit ea a ducimus! Suscipit ut qui quas aperiam
+                    aliquid tempora fugit odit optio.
+                </div>
+            </div>
+        </div>
+    </div>
